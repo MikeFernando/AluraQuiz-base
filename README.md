@@ -1,6 +1,6 @@
 <div align="center">
-  <h1> NextJs </h1>
   <img align="center" src="./github/N.png" alt="nextjs" />
+  <h1> NextJs </h1>
 </div>
 <br />
 
@@ -9,7 +9,7 @@
 </div>
 <br />
 
-# Tecnologies
+# 🚀Tecnologies 
 - NextJs
 - ReactJs
 - CSS
