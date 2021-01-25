@@ -4,7 +4,7 @@
 <br />
 
 <div align="center">
-  <img align="center" src="./github/alura.gif" alt="alura" height="500" />
+  <img align="center" src="./github/alura.gif" alt="alura" />
 </div>
 <br />
 
