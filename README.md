@@ -4,7 +4,7 @@
 <br />
 
 <div align="center">
-  <img align="center" src="./github/N.png" alt="nextjs" />
+  <img align="center" src="./github/alura.gif" alt="alura" />
 </div>
 <br />
 
